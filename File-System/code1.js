@@ -18,3 +18,6 @@ fs.writeFile("ex.txt", "tell" , (err)=>{
     }
     console.log("File created successfully ");
 });
+
+
+
